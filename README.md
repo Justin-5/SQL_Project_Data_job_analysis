@@ -1,7 +1,3 @@
-Here is a README file generated based on your SQL project files.
-
----
-
 # SQL Data Job Analysis Project
 
 ## Introduction
